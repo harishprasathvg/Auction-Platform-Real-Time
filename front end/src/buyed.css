@@ -1,0 +1,19 @@
+.curamount3{
+    position: absolute;
+    left: 65%;
+    font-size: large;
+    margin-top: 150px;
+  }
+  .mess3 {
+    position: absolute;
+    margin-top:10%;
+    margin-left: 420px;
+    font-size: x-large; /* or any other size you prefer, such as larger or xx-large */
+    color: white;
+  }
+  .description3{
+    position: absolute;
+    left: 24%;
+    font-size: large;
+    margin-top: 300px;
+  }

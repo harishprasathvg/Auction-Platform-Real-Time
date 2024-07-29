@@ -1,0 +1,120 @@
+/* sellbid.css */
+
+.product-info h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .sellbid-container * {
+    color: white;
+  }
+  .product-info p {
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles for the entire product info section */
+  .product-info {
+    margin-bottom: 20px;
+  }
+  
+/* Sellbid Component */
+.sellbid-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .sellbid-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .product-info {
+    margin-bottom: 20px;
+  }
+  
+  .product-info h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .product-info p {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .bid-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    
+  }
+  
+  .bid-table th, .bid-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .bid-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+  }
+  
+  /* LoadingScreen Component */
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loading-text {
+    font-size: 24px;
+  }
+  
+  /* App-wide Styles */
+  .btn1 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: #056406;
+    font-size: large;
+    font-weight: 500;
+    
+  }
+  
+  .btn1:hover {
+    background-color: #056406;
+  }
+  /* sellbid.css */
+
+.product-info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white; /* Set text color to white */
+  }
+  
+  .product-info p {
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+    color: white; /* Set text color to white */
+  }
+  
+ .bidmess{
+  margin-top: 150px;
+  margin-bottom: 150px;
+ }
