@@ -10,13 +10,7 @@ const { Countdown } = Statistic;
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAfq8iaSv7IeZzOEr2IPZpbYLBxsdLNry0",
-  authDomain: "auction-platform-17c91.firebaseapp.com",
-  projectId: "auction-platform-17c91",
-  storageBucket: "auction-platform-17c91.appspot.com",
-  messagingSenderId: "659779739752",
-  appId: "1:659779739752:web:570bdd168280a25133dbdd",
-  measurementId: "G-LCMEZH5L1X"
+  //api key
 };
   const app = initializeApp(firebaseConfig);
   const storage = getStorage(app);
